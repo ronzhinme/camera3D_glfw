@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1370519109 source:d:\projects\opengl\glfw\mihtechcamera\main.cpp
+	<GL/glfw.h>
+	"MihTechCamera.h"
+
+1341345714 c:\program files (x86)\mingw\include\gl\glfw.h
+	<OpenGL/gl3.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL3/gl3.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1198768051 c:\program files (x86)\mingw\include\gl\gl.h
+
+1198768051 c:\program files (x86)\mingw\include\gl\glu.h
+	<stddef.h>
+	<GL/gl.h>
+
+1370519109 d:\projects\opengl\glfw\mihtechcamera\mihtechcamera.h
+	<GL/glfw.h>
+	<math.h>
+	<stdio.h>
+
+1198769020 c:\program files (x86)\mingw\include\math.h
+	<_mingw.h>
+
+1198769017 c:\program files (x86)\mingw\include\_mingw.h
+
+1198769022 c:\program files (x86)\mingw\include\stdio.h
+	<_mingw.h>
+	<stddef.h>
+	<stdarg.h>
+	<sys/types.h>
+
+1198769024 c:\program files (x86)\mingw\include\sys\types.h
+	<_mingw.h>
+	<stddef.h>
+
+1370519109 source:d:\projects\opengl\glfw\mihtechcamera\mihtechcamera.cpp
+	"MihTechCamera.h"
+
